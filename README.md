@@ -20,16 +20,14 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-galal-43b452280/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Galal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmed_ga13/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ahmed%20Galal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-
+<a href="https://www.instagram.com/ahmed_ga13/" target="_blank"> <img src="https://img.shields.io/badge/-Ahmed%20Galal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://t.me/Za3emo" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Galal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
