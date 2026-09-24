@@ -10,7 +10,7 @@
 </p>   
 
 - 🏢 I'm a Front End Developer  
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Computer Science graduate | Front-End Developer | Constantly learning and exploring new technologies.
 - 💬 Ask me about my experience with JavaScript, Angular, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.    
 
